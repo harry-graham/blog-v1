@@ -1,4 +1,4 @@
-# harry-graham.github.io
+# My Personal Blog - Attempt #1
 
 This was my first attempt at creating a blog/profile.
 
