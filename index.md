@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+## 👋 Hi there! I'm Harry Graham
 
-Maybe say a some things about yourself.
+I'm a Software Engineer, passionate about adding value, learning, and helping others. ✨
 
-Or maybe what you plan to blog about.
+I most enjoy working on projects with robust testing, fast iterations, low integration friction, and many other things that help me to feel empowered and able to add value.
