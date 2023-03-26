@@ -1,6 +1,6 @@
 # harry-graham.github.io
 
-My personal blog.
+[My personal blog and profile](https://harry-graham.github.io/).
 
 ## Credits / Acknowledgements
 
