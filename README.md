@@ -2,6 +2,8 @@
 
 This was my first attempt at creating a blog/profile.
 
+**Total time between creation and retirement:** 2 hours 47 minutes
+
 I followed [this article](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html) to
 initialise the repository and to set up the initial details, but quickly found that many things
 that I wanted to tweak were not very obvious from the code.
